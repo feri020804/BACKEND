@@ -1,7 +1,13 @@
 <?php
 class Animal
 {
-    public array $animal = [];
+    public array $animal = [
+        'ayam',
+        'kucing',
+        'burung',
+        'ikan',
+        'semut'
+    ];
 
     public function __construct($data)
     {
