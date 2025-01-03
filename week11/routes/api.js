@@ -16,6 +16,9 @@ router.delete('/students/:id', StudentController.destroy);
 
 // Export router
 module.exports = router;
+
+
+// yang pertama
 // // import express
 // const express = require("express");
 // // membuat object router
@@ -36,3 +39,4 @@ module.exports = router;
 
 // // export router
 // module.exports = router;
+
